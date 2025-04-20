@@ -14,9 +14,10 @@ I'm **Arthur Berret**, **Cybersecurity** student at **ECE Paris** passionate abo
 
 ## 🛠️ Skills & Tools  
 Here are some of the technologies and tools I use:  
-- **Languages**: Python, Bash, C, C#, Java, React, ...
+- **Languages**: C, Bash, Python, C#, Java, React, ...
 - **Security tools**: Nmap, Metasploit, Ghidra, Dirb, Hashcat  
-- **Systems**: Kali Linux, Windows Server, remote CasaOS  
+- **Systems**: Kali Linux, Windows Server, CasaOS
+- **Cloud Platforms**: GCP, AWS
 - **My RootMe profile**: [Atlas](https://www.root-me.org/Atlas-956265?inc=info&lang=fr)
 - **My TryHackMe profile**: [Atlas002](https://tryhackme.com/r/p/Atlas002)
 
