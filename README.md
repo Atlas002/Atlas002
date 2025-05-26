@@ -24,6 +24,12 @@ Here are some of the technologies and tools I use:
 <img src="https://tryhackme-badges.s3.amazonaws.com/Atlas002.png" alt="Your Image Badge" />
 
 ---
+## 🎯 CTF & Competitions
+I often participate in various CTFs, you can find my different write-ups [here](https://github.com/Atlas002/CTF_WUs#). So far I have competed in :
+- BITSCTF 2025
+- PWNME 2025
+- DVCTF 2025
+---
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/arthur-berret-b0aa411a5/)
 - Email: arthur.berret@edu.ece.fr
