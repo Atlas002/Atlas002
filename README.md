@@ -3,7 +3,7 @@
 ![](img/screen.gif)
 
 
-I'm **Arthur Berret**, **Cybersecurity** student at **ECE Paris** passionate about pentesting.
+I'm **Arthur Berret**, **Cybersecurity** student at **ECE Paris** passionate about pentesting and OSINT.
 
 ---
 ## 🛡️ About Me  
