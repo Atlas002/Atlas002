@@ -32,7 +32,7 @@ I often participate in various CTFs, [you can find my different write-ups here](
 - [AMSI CTF 2025](https://github.com/Atlas002/CTF_WUs/tree/main/AMSI_CTF_2025)
 ---
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/arthur-berret-b0aa411a5/)
+- [LinkedIn](https://www.linkedin.com/in/arthur-berret/)
 - Email: arthur.berret@edu.ece.fr
 
 
