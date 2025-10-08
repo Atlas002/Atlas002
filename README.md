@@ -18,6 +18,7 @@ Here are some of the technologies and tools I use:
 - **Security tools**: Nmap, Metasploit, Ghidra, Dirb, Hashcat  
 - **Systems**: Kali Linux, Windows Server, CasaOS
 - **Cloud Platforms**: GCP, AWS
+- **My HackTheBox profile** [Atlas02](https://app.hackthebox.com/profile/2394184)
 - **My RootMe profile**: [Atlas](https://www.root-me.org/Atlas-956265?inc=info&lang=fr)
 - **My TryHackMe profile**: [Atlas002](https://tryhackme.com/r/p/Atlas002)
 
